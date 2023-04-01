@@ -1,0 +1,21 @@
+#	Projects/Implications
+
+	//	FCT Software - Backend
+		*	Middle man between software developement team and the actuarial team
+		*	
+
+	//	Transistion from IFRS 4 to IFRS 17
+		*	Reading auditors and regulators' note
+		*	Implementing changes into current projection model
+
+	~~	Communication is KEY
+
+#	Current state of DS in the insurance industry
+
+	// Currently, DS is used as a support in many sectors of insurance.
+
+
+
+#	Why switch?
+	
+		*	
