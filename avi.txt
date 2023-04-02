@@ -2,23 +2,68 @@
 
 	//	FCT Software - Backend
 		*	Middle man between software developement team and the actuarial team
-		*	
+		*	Developing IFRS 17 discounting calculations.
 
 	//	Transistion from IFRS 4 to IFRS 17
 		*	Reading auditors and regulators' note
-		*	Implementing changes into current projection model
+		*	Implementing changes into current projection models
+		*	Performing QIS : Quantitative Impact Study
 
-	~~	Communication is KEY
+	//	Communication is KEY
+	 	*	Communication is one of the most important skill as a consultant. Need to communicate
+			key findings to a non technical audience. Be able to relay associate information in 
+			a way everyone can understand.
+		
+		* 	Be able	"teach" the software team about actuarial projections under both accounting standards
 
-#	Current state of DS in the insurance industry
+
+#	Current state of DS in the insurance industry (IMO : please ask for their input)
 
 	// Currently, DS is used as a support in many sectors of insurance.
-		-	Pricing
-		-	Claims department
-		-	Underwritting
+		-	Pricing : 
+			*	Provide a more accurate rating algorithm
+			*	Policyholders classification
+			*	Projections of change in certain rating variables
+		-	Claims department : 
+			*	Setting initial case reserves
+			*	Evaluating case reserve adequacy
+		-	Underwritting :
+			*	Customer and book of business segmentation
+			*	Retention analysis
+			*	Adverse and favorable development analysis
 
 	//	Main challenges of ML in the insurance industry
-		*	
+		-	Model Interpretability : 
+			Regulators and excecutives are generally unwilling to replace GLM and GAM with
+			black-box models
+		-	Lack of Compelling Reason :
+			Most LoB are highly regulated that the marginal gain proposed by a more sophisticated
+			algorithm is not worth the required ressources to implement
+		-	
+
+	//	P&C insurers with enough ressources tend to want to get into DS more and more
+		in order to remain competitive in the market
 
 #	Why switch?
+
+	//	To remain competitive within the insurance industry.
+	//	Working for a national insurer.
+	//	Extraordinary career opportunity and learning experience for me.
+		Be a well-rounded professional within the industry
+
+
+#	My expectations of this role
+
+	//	Cathcing-up : approx 3 months
+		-	To get better at coding and familiarize with ModelOps
+		-	Supporting and collaborate with actuarial departments
+		-	Relay / Interpret / Presenting key findings to both technical and non-technical
+			audiences
 	
+
+	
+~~~~
+
+#	Questions to ask
+
+	-	How will my background be utilize within the DS team
