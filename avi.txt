@@ -13,9 +13,12 @@
 #	Current state of DS in the insurance industry
 
 	// Currently, DS is used as a support in many sectors of insurance.
+		-	Pricing
+		-	Claims department
+		-	Underwritting
 
-
+	//	Main challenges of ML in the insurance industry
+		*	
 
 #	Why switch?
 	
-		*	
