@@ -1,0 +1,33 @@
+    How to deal with data leak
+    can you explain the ML 
+    how you allocate yourtime to these stages?
+    categorical data?
+    overfitting and underfitting?
+    Model explainability
+    explain your fav model in layman's term
+    between a linear model, a neural network, and a tree-based model, which one do you select for modelling?
+    how do you keep yourself updated for new technologies and trends?
+    Do stay updated with competitions
+    in your opinion, what's the most important: being a good communicaotr or good listener
+    What they expect in this role?
+    what are steps in a research problem?
+    Did you come across a situation where you proposed something and it was not accepted? If so how did you deal with that?
+    how to handle unbalanced data?
+    How to aviod overfitting ? how to avoid underfitting?
+
+
+    ~~~~~~
+
+    what are steps in a research problem?
+    Did you come across a situation where you proposed something and it was not accepted? If so how did you deal with that?
+    how to handle unbalanced data?
+    How to aviod overfitting ? how to avoid underfitting?
+    what is overfitting in XGBoost ? how to solve it ?
+    what is the difference between crossentropy loss and binary crossentropy loss?
+    Describe your knowledge of spark and how it differs from the pandas library?
+    Tell me about a time that you experienced an out of memory error, and how did you solve it?
+    Why do we need clustering? How does K-means clustering work? What's its difference with DBSCAN?
+    What's ensemble learning and its benefits? What's differnce between bagging and boosting techniques?
+    How does decision tree work? What's entropy and information gain?How do we deal with continous-valued attributes in decision trees?
+    What's differnce between gradient descent (GD) and stochastic gradient descent (SGD)?
+    Why do we need hyperparameter tuning in machine learning models? What kind of hyperparameter tuning methods are you familiarwith?
